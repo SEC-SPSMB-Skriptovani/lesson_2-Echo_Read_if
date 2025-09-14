@@ -50,10 +50,10 @@ Hodnotu lze později použít pomocí $nazev_promenne.
 
 ```bash
 #!/bin/bash
-jmeno="David"
-vek=33
+name="David"
+age=33
 
-echo "Jmenuji se $jmeno a je mi $vek let."
+echo "Jmenuji se $name a je mi $age let."
 ```
 
 ## Systémové proměnné
