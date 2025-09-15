@@ -94,7 +94,7 @@ echo "Aktuální složka: $PWD"
 echo "Náhodné číslo: $RANDOM"
 echo "Název skriptu: $0"
 ```
-## Předávání proměnných při spouštění scriptu
+## Předávání proměnných (argumentů) při spouštění scriptu
 Bash můžeš proměnné předávat skriptu jako parametry při jeho spuštění. To je velmi užitečné, protože pak může skript pracovat s různými vstupy bez nutnosti měnit jeho kód.
 
 
