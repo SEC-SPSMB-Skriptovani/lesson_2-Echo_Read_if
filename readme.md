@@ -151,9 +151,9 @@ echo "Ahoj, $name!"
 
 ## Základní syntaxe
 ```bash
-if [ podmínka1 ]; then
+if [[ podmínka1 ]]; then
   příkazy
-elif [ podmínka2 ]; then
+elif [[ podmínka2 ]]; then
   příkazy
 else
   příkazy
