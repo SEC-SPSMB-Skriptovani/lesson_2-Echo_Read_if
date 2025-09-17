@@ -141,7 +141,7 @@ echo "Ahoj, $name!"
 ```
 
 #  podmínky `if` `elif` `else`
-
+(Bash cheatsheet - Conditionals )[https://devhints.io/bash#conditionals]
 ## 1. Účel
 `if` slouží k **kontrole podmínky** a provedení určité akce pouze tehdy, pokud je podmínka pravdivá.  
 `elif` je zkratka pro “else if” a používá se v Bash pro kontrolu další podmínky, pokud předchozí if nebyla pravdivá. 
