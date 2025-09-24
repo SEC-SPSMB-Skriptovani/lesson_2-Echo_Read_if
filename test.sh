@@ -56,6 +56,15 @@ else
     echo "nepravda"
 fi
 
+# Podmínka zda je zadaná osoba zletilá, enbo ne.
+age=15
+if [[ $age -gt 17 ]]; then
+  echo "osoba je plnoletá"
+elif [[ age -gt 14 ]] ; then
+  echo "osoba není plnoletá, ale má občanku"
+else
+  echo "osoba není plnoletá"
+fi
 
 
 
