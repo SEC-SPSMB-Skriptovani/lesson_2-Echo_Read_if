@@ -1,7 +1,7 @@
 # Záladní příkazy Echo, Read, proměnné, if
  
  ## Why you need to learn BASH Scripting RIGHT NOW!! // EP 1 YTB:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SPwyp2NG-bE/0.jpg)](https://www.youtube.com/watch?v=SPwyp2NG-bE)
+[![YOUTUBE - Why you need to learn BASH Scripting RIGHT NOW!!](https://img.youtube.com/vi/SPwyp2NG-bE/0.jpg)](https://www.youtube.com/watch?v=SPwyp2NG-bE)
 
 # Příkaz `echo`
 `echo` slouží k výpisu textu nebo hodnot proměnných na obrazovku (standardní výstup). Je to nejjednodušší způsob, jak komunikovat s uživatelem nebo ladit skript.
